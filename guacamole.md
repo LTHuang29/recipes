@@ -1,7 +1,6 @@
 # Guacamole
 ## Ingredients
-## Instructions
-- anocado
+- avocado
 - lemon
 - sale
 ## Instructions
